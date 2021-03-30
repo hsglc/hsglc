@@ -3,4 +3,4 @@
 
 
 
-- 🌱  **I’m currently learning JavaScript and React.**
+- 🌱  **I’m currently learning the JavaScript and React.**
