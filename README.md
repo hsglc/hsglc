@@ -8,7 +8,7 @@
 
 #### I am both a react developer and a computer engineering student. 
 
-<hr />
+
 <br />
 <br />
 
@@ -43,21 +43,12 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   
 </p>
-
-<p>
-  
+<p> 
 </p>
-
-
-
 <br />
 
 
-****
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsglc&show_icons=true&theme=dracula)
-
-<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsglc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
