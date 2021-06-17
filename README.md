@@ -2,6 +2,10 @@
 
 # Hi, :sweat_smile:
 
+ 
+
+![Profile views](https://gpvc.arturio.dev/hsglc)  
+
 <p>
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="right" width="300" height="200">
 </p>
