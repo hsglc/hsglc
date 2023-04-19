@@ -6,14 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/hsglc)  
 
-### how can you contact me
-
-<br />
-
-[<img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>][twitter]
-[<img src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>][linkedin]
-
-<hr />
 <br />
 
 
