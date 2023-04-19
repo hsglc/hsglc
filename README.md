@@ -6,9 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/hsglc)  
 
-<p>
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="right" width="300" height="200">
-</p>
 
 #### I am both a react developer and a computer engineering student. 
 
@@ -39,12 +36,7 @@
   <img src="https://img.icons8.com/dusk/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  
-  
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+ 
   
 </p>
 <p> 
