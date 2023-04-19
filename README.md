@@ -9,8 +9,6 @@
 
 #### I am both a react developer and a computer engineering student. 
 
-
-<br />
 <br />
 
 ### how can you contact me
