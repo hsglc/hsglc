@@ -6,11 +6,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/hsglc)  
 
-
-#### I am both a react developer and a computer engineering student. 
-
-<br />
-
 ### how can you contact me
 
 <br />
