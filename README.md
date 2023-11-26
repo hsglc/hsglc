@@ -2,9 +2,6 @@
 
 # Hi, :sweat_smile:
 
- 
-
-![Profile views](https://gpvc.arturio.dev/hsglc)  
 
 <br />
 
